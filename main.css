@@ -1,0 +1,39 @@
+.logo[data-v-e1592c70] {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.my-swipe[data-v-5a90ec03] {
+  margin-top: 46px;
+}
+.custom-indicator[data-v-5a90ec03] {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  padding: 2px 5px;
+  font-size: 12px;
+  background: rgba(0,0,0,0.1);
+}
+.description[data-v-5a90ec03] {
+  text-align: center;
+}
+.notice-swipe[data-v-5a90ec03] {
+  height: 40px;
+  line-height: 40px;
+}
+
+.container[data-v-7ba5bd90] {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  max-width: 1200px;
+}
+
+.full-width {
+  width: 100%;
+}
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
